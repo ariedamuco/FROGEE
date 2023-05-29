@@ -7,7 +7,7 @@ FROGEE training workshop: data sources and methods for research and policy analy
 
 13.30-14.00: Computer set up, making sure that all works
 
-14.00-16.00: Variables (floats, integers, strings), Lists, Dictionaries)
+14.00-16.00: Variables (floats, integers, strings), Lists, Dictionaries
 
 16.00-16.30: Coffee 
 
@@ -19,7 +19,7 @@ FROGEE training workshop: data sources and methods for research and policy analy
 
 09.00-09.30: Set up and coffee
 
-09.30-10.30: Introduction to Text Analysis (word vectors – bag of words, term frequency, inverse document frequency, cosine similarity)
+09.30-10.30: Introduction to Text Analysis (Word Vectors – Bag of Words, Term Frequency, Inverse Document Frequency, Cosine Similarity)
 
 10.30-11.00: Coffee
 
