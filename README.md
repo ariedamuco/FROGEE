@@ -2,7 +2,7 @@
 FROGEE training workshop: data sources and methods for research and policy analysis
 
 
-Day 1 (31.05.2023)
+## Day 1 (31.05.2023)
 Introduction to Python
 
 13.30-14.00: Computer set up, making sure that all works
@@ -14,7 +14,7 @@ Introduction to Python
 16.30-18.00: Introduction to Python: Conditionals, Loops, Functions
 
 
-Day 2 (01.06.2023):
+## Day 2 (01.06.2023):
 Natural Language Processing
 
 09.00-09.30: Set up and coffee
