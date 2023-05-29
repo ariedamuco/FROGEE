@@ -11,7 +11,7 @@ FROGEE training workshop: data sources and methods for research and policy analy
 
 16.00-16.30: Coffee 
 
-16.30-18.00: Introduction to Python: Conditionals, Loops, Functions
+16.30-18.00: Conditionals, Loops, Functions
 
 
 ## Day 2 (01.06.2023):
