@@ -30,3 +30,6 @@ FROGEE training workshop: data sources and methods for research and policy analy
 14.00-16.00: Sentiment Analysis, Word Embeddings and Analogies
 
 16.00-17.00: Q&A, wrap up + coffee
+
+
+We will be using the Anconda distribution that comes with many pre-installed packages. Download at: https://www.anaconda.com/download
