@@ -33,3 +33,6 @@ FROGEE training workshop: data sources and methods for research and policy analy
 
 
 We will be using the Anconda distribution that comes with many pre-installed packages. Download at: https://www.anaconda.com/download
+
+I highly recommend this Assembly AI video on Word Embedding https://www.youtube.com/watch?v=5MaWmXwxFNQ&ab_channel=AssemblyAI
+
