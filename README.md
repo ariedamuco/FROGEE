@@ -9,7 +9,7 @@ FROGEE training workshop: data sources and methods for research and policy analy
 
 14.00-14.30: Computer set up, making sure that all works
 
-14.30-16.30: Workshop part 1: Introduction to Python: Variables (floats, integers, strings), Lists, Dictionaries)
+14.30-16.30: Workshop part 1: Introduction to Python: Variables (floats, integers, strings), Lists, Dictionaries
 
 16.30-17.00: Coffee 17.00-18.30: Workshop part 2: Introduction to Python: Conditionals, Loops, Functions
 
